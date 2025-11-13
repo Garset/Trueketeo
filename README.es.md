@@ -1,4 +1,4 @@
-<h1>Trueketeo -Plataforma de Trueque Digital</h1> 
+<h1>Trueketeo - Plataforma de Trueque Digital</h1> 
 
 Trueketeo es una plataforma que busca darle una vida útil a los objetos que no necesitamos en un mundo donde todo tiene un precio. Es una alternativa inclusiva de forma ecológica y sustentable. 
 
